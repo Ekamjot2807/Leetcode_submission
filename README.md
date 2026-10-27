@@ -21,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0144-binary-tree-preorder-traversal) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
