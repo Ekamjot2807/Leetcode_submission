@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0144-binary-tree-preorder-traversal) |
 ## Math
 |  |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -45,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0023-merge-k-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
