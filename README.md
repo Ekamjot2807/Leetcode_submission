@@ -66,4 +66,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0125-valid-palindrome) |
+| [0389-find-the-difference](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0389-find-the-difference) |
+## Hash Table
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0389-find-the-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
