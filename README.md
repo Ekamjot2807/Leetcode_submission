@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0061-rotate-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0125-valid-palindrome) |
 ## String
