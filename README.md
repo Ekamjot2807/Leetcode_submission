@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0144-binary-tree-preorder-traversal) |
+| [0316-remove-duplicate-letters](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0316-remove-duplicate-letters) |
 ## Tree
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0125-valid-palindrome) |
+| [0316-remove-duplicate-letters](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0316-remove-duplicate-letters) |
 | [0389-find-the-difference](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
@@ -103,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0118-pascals-triangle) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
