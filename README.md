@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0144-binary-tree-preorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0316-remove-duplicate-letters) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0125-valid-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0316-remove-duplicate-letters) |
 | [0389-find-the-difference](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0389-find-the-difference) |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0101-symmetric-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
