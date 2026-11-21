@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0144-binary-tree-preorder-traversal) |
@@ -18,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0144-binary-tree-preorder-traversal) |
@@ -135,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0075-sort-colors) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
