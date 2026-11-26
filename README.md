@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0283-move-zeroes) |
+| [2363-merge-similar-items](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/2363-merge-similar-items) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0389-find-the-difference) |
+| [2363-merge-similar-items](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/2363-merge-similar-items) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0088-merge-sorted-array) |
 | [0389-find-the-difference](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0389-find-the-difference) |
+| [2363-merge-similar-items](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/2363-merge-similar-items) |
 ## Trie
 |  |
 | ------- |
@@ -168,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/0387-first-unique-character-in-a-string) |
+## Ordered Set
+|  |
+| ------- |
+| [2363-merge-similar-items](https://github.com/Ekamjot2807/Leetcode_submission/tree/master/2363-merge-similar-items) |
 <!---LeetCode Topics End-->
